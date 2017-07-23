@@ -1,11 +1,7 @@
 
-name= "Concaterna"
-print (name.title())
 
-first_name = "estamos "
+mensage_1="Ola mundo python!"
 
-last_name = "evoluindo"
+mensage_2= "muito obrigado"
 
-full_name=first_name+""+last_name
-
-print("Estatus " + full_name.title () + "!")
+print (mensage_1 +" "+ mensage_2)
