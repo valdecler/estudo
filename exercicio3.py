@@ -1,5 +1,5 @@
 
-menssagem_1 = ' em outro mundo outro lugar'
+menssagem_1 = " em outro mundo outro lugar.
 
 print (menssagem_1)
 
