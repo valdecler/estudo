@@ -3,15 +3,12 @@ menssagem_1 = " em outro mundo outro lugar.
 
 print (menssagem_1)
 
-  # Neste primeiro exeplo de erro o problema esta no print onde foi aberto 
-  #parentesses porem nao foi fechado impossibilitando o python de ler o codigo 
+  # se você usar aspas simples, Python pode não identificar onde a string deve terminar
   
-
-menssagem_2 = " so mais uma fase a superar
-
-print (menssagem_2)
-
-  # Neste exemplo o erro esta no valor da variavel foi aberto "" porem 
-  #nao foi fechada nao atribuito valor a variavel menssagem_2
+  #entao vai aparecer o seguite resultado 
   
+  File "apostrophe.py", linha 1 
+  message = "Um dos pontos fortes do Python é a sua comunidade diversificada
+
+
 
